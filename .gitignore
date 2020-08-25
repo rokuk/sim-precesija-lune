@@ -1,0 +1,9 @@
+*.aux
+*.fls
+*.log
+*.gz
+*.fdb_latexmk
+*.bcf
+*.xml
+.vscode
+**/__pycache__/
