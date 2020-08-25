@@ -1,3 +1,3 @@
 # sim-precesija-lune
 
-Repozitorij za zaključni projekt pri predmetu Računalniška orodja na FMF.
+Numerični izračun dinamike Lune in Zemlje z namenom preučevanja precesije Lunine orbite. Zaključni projekt pri predmetu Računalniška orodja na FMF, UNI-LJ.
